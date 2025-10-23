@@ -14,4 +14,8 @@ let applePrice=4;
 
 let orangeprice=3;
 
-console.log(applePrice+= orangeprice, applePrice-=orangeprice, applePrice*=orangeprice,applePrice/=orangeprice);
+
+console.log(applePrice + orangeprice);
+console.log(applePrice -orangeprice);
+console.log(applePrice *orangeprice);
+console.log(applePrice /orangeprice);
